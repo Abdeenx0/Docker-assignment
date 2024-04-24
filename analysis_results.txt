@@ -1,0 +1,15 @@
+Top Selling Books:
+title
+Harry Potter and the Sorcerer's Stone (Harry Potter, #1)                                   4602479
+Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)                                1832823
+Harry Potter and the Chamber of Secrets (Harry Potter, #2)                                 1779331
+Harry Potter and the Goblet of Fire (Harry Potter, #4)                                     1753043
+Harry Potter and the Deathly Hallows (Harry Potter, #7)                                    1746574
+Harry Potter and the Order of the Phoenix (Harry Potter, #5)                               1735368
+Harry Potter and the Half-Blood Prince (Harry Potter, #6)                                  1678823
+Harry Potter Boxset (Harry Potter, #1-7)                                                    190050
+Harry Potter Collection (Harry Potter, #1-6)                                                 24618
+The Magical Worlds of Harry Potter: A Treasury of Myths, Legends, and Fascinating Facts      13820
+Name: ratings_count, dtype: int64
+
+Average Rating of Harry Potter Books: 4.4910000000000005
